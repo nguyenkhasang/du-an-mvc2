@@ -1,0 +1,20 @@
+body{
+	line-height: 1.5;
+}
+
+.s-bre{
+	background-color: #fff;
+}
+.breadcrumb{
+	background-color: #fff;
+}
+.nd>h1{ 
+	color: #7b0200;
+	font-size: 1.5em;
+	line-height: 1.7;
+
+}
+.nd>img{
+	margin: 20px 0;
+	max-width: 100%;
+}
